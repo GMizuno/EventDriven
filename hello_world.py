@@ -7,10 +7,18 @@ app = faust.App(
 )
 
 greetings_topic = app.topic('greetings')
+hello_topic = app.topic('hello')
+
+
+@app.agent(hello_topic)
+async def hello2(greeting_msg) -> None:
+    """Send a message to the hello topic."""
+    pass
 
 @app.agent(greetings_topic)
 async def greet(greetings):
-    async for greeting in greetings:
-        await greetings_topic.send(value=greeting)
+    """Send a message to the greeting topic."""
+    pass
+
 
 

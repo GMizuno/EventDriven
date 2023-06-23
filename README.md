@@ -31,4 +31,17 @@ docker-compose exec -it kafka /opt/bitnami/kafka/bin/kafka-console-consumer.sh -
 
 ## Part 2 - Observability
 
+Produce message in topic in file hello_word.py. After send we specify the topic and message.
+
+```bash
+poetry run faust -A hello_world send hello "Hello Kafka topic"   
+poetry run faust -A hello_world send greeting "Greeting Kafka topic2222222" 
+```
+
+Start worker
+
+```bash
+ poetry run faust -A hello_world worker -l info
+```
+
 ## Part 3 - Automate Reports
