@@ -44,4 +44,42 @@ Start worker
  poetry run faust -A hello_world worker -l info
 ```
 
+## Improve architecture
+
+![Old architecture](img/old_architecture.png "Old architecture")
+
+Problems with this architecture
+
+1 - With read/write in database 
+
+2 - If we need to update at least one task we need to stop all other tasks
+
+3 - Since we are working with batch, we can receive a lot of data in the scheduler period, so parts we could need a
+lot of computation to complete some tasks
+
+
+![New architecture](img/new_architecture.png "New architecture")
+
+Explaining the numbers in the new architecture
+
+1 - Receive data from user 
+
+2 - Validate data (using Table in Faust)
+
+3 - Aggregate data (using Table in Faust)
+
+4 - Make a request to external service
+
+5 - Run Machine Learning model
+
+6 - Sink data in Database, could be a data warehouse
+
+7 - Transfer data to BI tool
+
+8 - Acess BI tool to visualization 
+
+In this architecture only write data before we pass all tasks, also can by pass if same data in different
+or there is other need. Finnaly, we are working with streaming data so we are dealing with small amount of data
+
+
 ## Part 3 - Automate Reports
