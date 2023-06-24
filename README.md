@@ -57,6 +57,8 @@ Problems with this architecture
 3 - Since we are working with batch, we can receive a lot of data in the scheduler period, so parts we could need a
 lot of computation to complete some tasks
 
+4 - Due to systems being dependent if the first system doesn't finish before the timer, then the second system will be operating with an in complete state.
+
 
 ![New architecture](img/new_architecture.png "New architecture")
 
@@ -80,6 +82,10 @@ Explaining the numbers in the new architecture
 
 In this architecture only write data before we pass all tasks, also can by pass if same data in different
 or there is other need. Finnaly, we are working with streaming data so we are dealing with small amount of data
+
+```bash
+poetry run faust -A app worker -l info
+```
 
 
 ## Part 3 - Automate Reports
