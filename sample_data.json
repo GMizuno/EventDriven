@@ -1,0 +1,28 @@
+{
+  "id": "cardano",
+  "icon": "https://static.coinstats.app/coins/CardanojXddT.png",
+  "name": "Cardano",
+  "symbol": "ADA",
+  "rank": 8,
+  "price": 0.29292752644845876,
+  "priceBtc": 9.571404630383145e-06,
+  "volume": 510316902.9991082,
+  "marketCap": 10265651266.066614,
+  "availableSupply": 35045020830,
+  "totalSupply": 45000000000,
+  "priceChange1h": -0.53,
+  "priceChange1d": 0.98,
+  "priceChange1w": 9.61,
+  "websiteUrl": "https://www.cardano.org/en/home/",
+  "twitterUrl": "https://twitter.com/Cardano_CF",
+  "contractAddress": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+  "decimals": 18,
+  "exp": [
+    "https://cardanoscan.io/",
+    "https://cardanoexplorer.com/",
+    "https://blockchair.com/cardano",
+    "https://adaex.org/",
+    "https://adastat.net/",
+    "https://ada.tokenview.io/"
+  ]
+}
