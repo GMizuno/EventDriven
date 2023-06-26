@@ -6,6 +6,12 @@ This repository is based on LiveProject in [Manning](https://www.manning.com/liv
 
 Using this [docker-compose](https://github.com/bitnami/containers/blob/e1f4cfea7b1d7666c620242ed61cc20cb32f3b69/bitnami/kafka/docker-compose.yml)
 
+Start the container
+
+```bash
+docker compose up -d
+```
+
 Check connection to Kafka
 
 ```bash

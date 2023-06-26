@@ -9,6 +9,12 @@ readme = "README.md"
 python = "^3.9"
 faust = "^1.10.4"
 setuptools = "^68.0.0"
+requests = "^2.31.0"
+python-decouple = "^3.8"
+sqlalchemy = "^2.0.17"
+pydantic = "^1.10.9"
+pandas = "^2.0.2"
+psycopg2 = "^2.9.6"
 
 
 [build-system]
