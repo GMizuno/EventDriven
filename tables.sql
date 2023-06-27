@@ -1,6 +1,6 @@
 create database coin;
 
-create table coin.coin_price
+create table coin_price
 (
     id           varchar,
     icon         varchar,
@@ -9,5 +9,6 @@ create table coin.coin_price
     rank         bigint,
     price        double precision,
     volume       double precision,
-    "websiteUrl" varchar
+    "websiteUrl" varchar,
+    insert_date timestamp default now()
 );

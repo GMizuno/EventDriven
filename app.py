@@ -1,5 +1,6 @@
 import faust
 
+from db.sink import sink_postgres
 from models.coin import Symbol
 from requester.stock import get_qoute
 
@@ -10,7 +11,7 @@ db = app.topic('db', value_type=Symbol, partitions=3)
 
 
 # Topic to write stock price
-@app.timer(interval=3)
+@app.timer(interval=10)
 async def stock_price() -> None:
     """Consume stock price from one topic."""
     results = get_qoute().get("coins")
@@ -18,12 +19,13 @@ async def stock_price() -> None:
         model_result = Symbol(**result)
         await stock_in.send(value=model_result)
 
-# # Sink data from one topic do other
-# @app.agent(stock_in)
-# async def process_messages(messages):
-#     """Transform stock information to stock sink data"""
-#     async for message in messages:
-#         print(message)
+# Sink data from one topic do other
+@app.agent(stock_in)
+async def process_messages(messages):
+    """Transform stock information to stock sink data"""
+    async for message in messages:
+        print('Sending message to postgres')
+        sink_postgres(message.asdict())
 
 
 if __name__ == '__main__':

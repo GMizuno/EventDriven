@@ -11,9 +11,4 @@ class CoinDb(BaseModel):
     volume: float
     websiteUrl: str
 
-import json
 
-with open('sample_data.json') as f:
-    coins = json.load(f)
-
-data = CoinDb(**coins)
