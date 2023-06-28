@@ -1,8 +1,8 @@
 from datetime import datetime
 
 import pandas as pd
-from sqlalchemy import create_engine
 from decouple import config
+from sqlalchemy import create_engine
 
 from const import DATABASEURL
 from models.coin_db import CoinDb

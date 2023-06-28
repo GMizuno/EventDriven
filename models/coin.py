@@ -1,4 +1,4 @@
-from typing import Optional
+from datetime import datetime
 
 from faust import Record
 
@@ -24,6 +24,7 @@ class Symbol(Record, serializer='json'):
     contractAddress: str = None
     decimals: int = None
     redditUrl: str = None
+    event_time: str = None
 
 
 class SymbolSink(Record, serializer='json'):

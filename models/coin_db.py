@@ -10,5 +10,6 @@ class CoinDb(BaseModel):
     price: float
     volume: float
     websiteUrl: str
+    event_time: str
 
 

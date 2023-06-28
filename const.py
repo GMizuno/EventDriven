@@ -7,7 +7,7 @@ SYMBOLLIST = [
     "AAPL",
 ]
 
-SYMBOLS =  {"symbol":','.join(SYMBOLLIST)}
+SYMBOLS = {"symbol":','.join(SYMBOLLIST)}
 
 BASEURL = 'https://api.coinstats.app/public/v1/coins?skip=0&limit=10'
 

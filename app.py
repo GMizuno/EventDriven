@@ -1,3 +1,5 @@
+from datetime import datetime
+
 import faust
 
 from db.sink import sink_postgres
@@ -11,12 +13,14 @@ db = app.topic('db', value_type=Symbol, partitions=3)
 
 
 # Topic to write stock price
-@app.timer(interval=10)
+@app.timer(interval=1)
 async def stock_price() -> None:
     """Consume stock price from one topic."""
     results = get_qoute().get("coins")
     for result in results:
+        result['event_time']= datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         model_result = Symbol(**result)
+        print(model_result)
         await stock_in.send(value=model_result)
 
 # Sink data from one topic do other

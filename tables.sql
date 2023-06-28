@@ -10,5 +10,6 @@ create table coin_price
     price        double precision,
     volume       double precision,
     "websiteUrl" varchar,
+    event_time varchar,
     insert_date timestamp default now()
 );
