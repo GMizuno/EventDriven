@@ -1,38 +1,12 @@
-from datetime import datetime
+from __future__ import annotations
 
-from faust import Record
+import faust
 
 
-class Symbol(Record, serializer='json'):
-    id: str
-    icon: str
-    name: str
-    symbol: str
-    rank: int
+class Coin(faust.Record, serializer='json'):
     price: float
-    priceBtc: int
-    volume: float
-    marketCap: float
-    availableSupply: int
-    totalSupply: int
-    priceChange1h: float
-    priceChange1d: float
-    priceChange1w: float
-    websiteUrl: str
-    twitterUrl: str
-    exp: list[str]
-    contractAddress: str = None
-    decimals: int = None
-    redditUrl: str = None
-    event_time: str = None
-
-
-class SymbolSink(Record, serializer='json'):
-    id: str
-    icon: str
-    name: str
-    symbol: str
-    rank: int
-    price: float
-    volume: float
-    websiteUrl: str
+    exchange: str
+    pair: str
+    pairPrice: float
+    event_time: str
+    volume: int = None

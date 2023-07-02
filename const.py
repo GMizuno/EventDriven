@@ -1,14 +1,11 @@
-SYMBOLLIST = [
-    "MSFT",
-    "AMZN",
-    "SNOW",
-    "NVDA",
-    "GOOG",
-    "AAPL",
+COINSLIST = [
+    'bitcoin',
+    'ethereum',
+    'cardano',
+    'litecoin',
 ]
 
-SYMBOLS = {"symbol":','.join(SYMBOLLIST)}
-
-BASEURL = 'https://api.coinstats.app/public/v1/coins?skip=0&limit=10'
+BASEURL = 'https://api.coinstats.app/public/v1/markets?coinId={coin}'
 
 DATABASEURL = 'postgresql://{USER}:{PASSWORD}@localhost:5433/{DB}'
+

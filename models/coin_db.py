@@ -1,15 +1,14 @@
-from pydantic import BaseModel
+from __future__ import annotations
+
+import faust
 
 
-class CoinDb(BaseModel):
-    id: str
-    icon: str
-    name: str
-    symbol: str
-    rank: int
+class CoinDB(faust.Record, serializer='json'):
     price: float
-    volume: float
-    websiteUrl: str
+    exchange: str
+    pair: str
+    pairPrice: float
+    volume: int
     event_time: str
 
 

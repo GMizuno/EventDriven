@@ -2,16 +2,12 @@ create database coin;
 
 create table coin_price
 (
-    id           varchar,
-    icon         varchar,
-    name         varchar,
-    symbol       varchar,
-    rank         bigint,
-    price        double precision,
-    volume       double precision,
-    "websiteUrl" varchar,
-    event_time   varchar,
-    insert_date  timestamp default now()
+    exchange    varchar,
+    pair        varchar,
+    "pairPrice"   varchar,
+    volume      double precision,
+    event_time  varchar,
+    insert_date timestamp default now()
 );
 
 create table coin_agg

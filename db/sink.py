@@ -5,7 +5,7 @@ from decouple import config
 from sqlalchemy import create_engine
 
 from const import DATABASEURL
-from models.coin_db import CoinDb
+from models import CoinDB
 
 
 def sink_postgres(data: dict):
@@ -14,7 +14,7 @@ def sink_postgres(data: dict):
         echo=False
     )
 
-    model = CoinDb(**data).dict()
+    model = CoinDB(**data).asdict()
     data = pd.DataFrame(model, index=[0])
     data['insert_date'] = datetime.now()
 

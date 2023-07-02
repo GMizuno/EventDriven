@@ -1,0 +1,12 @@
+###
+GET https://api.coinstats.app/public/v1/markets?coinId=bitcoin
+
+###
+GET https://api.coinstats.app/public/v1/markets?coinId=ethereum
+
+###
+GET https://api.coinstats.app/public/v1/markets?coinId=cardano
+
+###
+GET https://api.coinstats.app/public/v1/markets?coinId=litecoin
+

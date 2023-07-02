@@ -1,28 +1,2102 @@
-{
-  "id": "cardano",
-  "icon": "https://static.coinstats.app/coins/CardanojXddT.png",
-  "name": "Cardano",
-  "symbol": "ADA",
-  "rank": 8,
-  "price": 0.29292752644845876,
-  "priceBtc": 9.571404630383145e-06,
-  "volume": 510316902.9991082,
-  "marketCap": 10265651266.066614,
-  "availableSupply": 35045020830,
-  "totalSupply": 45000000000,
-  "priceChange1h": -0.53,
-  "priceChange1d": 0.98,
-  "priceChange1w": 9.61,
-  "websiteUrl": "https://www.cardano.org/en/home/",
-  "twitterUrl": "https://twitter.com/Cardano_CF",
-  "contractAddress": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
-  "decimals": 18,
-  "exp": [
-    "https://cardanoscan.io/",
-    "https://cardanoexplorer.com/",
-    "https://blockchair.com/cardano",
-    "https://adaex.org/",
-    "https://adastat.net/",
-    "https://ada.tokenview.io/"
-  ]
-}
+[
+  {
+    "price": 111.05,
+    "exchange": "BinanceFutures",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.05,
+    "volume": 1506412720.95175
+  },
+  {
+    "price": 111.05,
+    "exchange": "Binance",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.05,
+    "volume": 232307468.35545
+  },
+  {
+    "price": 98.25437110200001,
+    "exchange": "Latoken",
+    "pair": "LTC/BTC",
+    "pairPrice": 30517.95,
+    "volume": 196276153.36885077
+  },
+  {
+    "price": 111.04,
+    "exchange": "OKEX",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.04,
+    "volume": 123185163.8686125
+  },
+  {
+    "price": 111.07,
+    "exchange": "Bitrue",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.07,
+    "volume": 121717809.85213
+  },
+  {
+    "price": 111.45,
+    "exchange": "BitForex",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.45,
+    "volume": 78812985.70014
+  },
+  {
+    "price": 111.05,
+    "exchange": "KucoinFutures",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.05,
+    "volume": 75891958.675
+  },
+  {
+    "price": 102.0016,
+    "exchange": "Latoken",
+    "pair": "LTC/USDT",
+    "pairPrice": 102.0016,
+    "volume": 71374119.37698334
+  },
+  {
+    "price": 111.02,
+    "exchange": "DigiFinex",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.02,
+    "volume": 59984193.03968
+  },
+  {
+    "price": 111.01,
+    "exchange": "BinanceFutures",
+    "pair": "LTC/BUSD",
+    "pairPrice": 1,
+    "volume": 59736300.4539
+  },
+  {
+    "price": 97.48240534799999,
+    "exchange": "Latoken",
+    "pair": "LTC/ETH",
+    "pairPrice": 1915.86,
+    "volume": 52991144.56905709
+  },
+  {
+    "price": 111.43,
+    "exchange": "GDAX",
+    "pair": "LTC/USD",
+    "pairPrice": 111.43,
+    "volume": 52615057.20523186
+  },
+  {
+    "price": 111.43,
+    "exchange": "Coinbase",
+    "pair": "LTC/USD",
+    "pairPrice": 111.43,
+    "volume": 52615057.20523186
+  },
+  {
+    "price": 111.13,
+    "exchange": "Binance",
+    "pair": "LTC/BUSD",
+    "pairPrice": 1,
+    "volume": 51283313.85716
+  },
+  {
+    "price": 111.254437,
+    "exchange": "Tidex",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.254437,
+    "volume": 40503131.7947241
+  },
+  {
+    "price": 113.19,
+    "exchange": "BinanceFutures",
+    "pair": "LTC/USD",
+    "pairPrice": 113.19,
+    "volume": 40062921.36
+  },
+  {
+    "price": 111.04,
+    "exchange": "P2PB2B",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.04,
+    "volume": 39759686.182624005
+  },
+  {
+    "price": 111.027,
+    "exchange": "Kucoin",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.027,
+    "volume": 34669524.75637197
+  },
+  {
+    "price": 111.00897643322163,
+    "exchange": "Bitrue",
+    "pair": "LTC/XRP",
+    "pairPrice": 0.48183070633804265,
+    "volume": 28137230.78718622
+  },
+  {
+    "price": 111.02,
+    "exchange": "Gate.io",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.02,
+    "volume": 25329858.715315
+  },
+  {
+    "price": 111.2,
+    "exchange": "Bybit",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.2,
+    "volume": 21304273.0405915
+  },
+  {
+    "price": 8099.5503,
+    "exchange": "Ataix",
+    "pair": "LTC/USDT",
+    "pairPrice": 8099.5503,
+    "volume": 20956483.525983
+  },
+  {
+    "price": 111.12739908,
+    "exchange": "Binance",
+    "pair": "LTC/BTC",
+    "pairPrice": 30512.74,
+    "volume": 20752038.64379078
+  },
+  {
+    "price": 111.02,
+    "exchange": "Currency.com",
+    "pair": "LTC/USD",
+    "pairPrice": 111.02,
+    "volume": 19466024.76
+  },
+  {
+    "price": 111.33,
+    "exchange": "BitMEX",
+    "pair": "LTC/USD",
+    "pairPrice": 111.33,
+    "volume": 15409597.003676364
+  },
+  {
+    "price": 111.2294322,
+    "exchange": "BitForex",
+    "pair": "LTC/USDC",
+    "pairPrice": 0.999905,
+    "volume": 15266889.560882948
+  },
+  {
+    "price": 111.052,
+    "exchange": "CryptoMKT",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.052,
+    "volume": 13556642.360700002
+  },
+  {
+    "price": 111.052,
+    "exchange": "Fmfw",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.052,
+    "volume": 13199843.2298964
+  },
+  {
+    "price": 111.1063,
+    "exchange": "HitBTC",
+    "pair": "LTC/USD",
+    "pairPrice": 111.1063,
+    "volume": 13194849.5546124
+  },
+  {
+    "price": 111.40594463,
+    "exchange": "Coinsbit",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.40594463,
+    "volume": 12893594.860833751
+  },
+  {
+    "price": 111.12739908,
+    "exchange": "Bitrue",
+    "pair": "LTC/BTC",
+    "pairPrice": 30512.74,
+    "volume": 12254297.22632329
+  },
+  {
+    "price": 77.06,
+    "exchange": "CoinEgg",
+    "pair": "LTC/USDT",
+    "pairPrice": 77.06,
+    "volume": 12076836.99667
+  },
+  {
+    "price": 111.06,
+    "exchange": "HuobiPro",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.06,
+    "volume": 11772842.734174859
+  },
+  {
+    "price": 111.05,
+    "exchange": "Xt",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.05,
+    "volume": 11190758.55151
+  },
+  {
+    "price": 111.08,
+    "exchange": "Bitrue",
+    "pair": "LTC/BUSD",
+    "pairPrice": 1,
+    "volume": 10211218.28032
+  },
+  {
+    "price": 111.03,
+    "exchange": "Whitebit",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.03,
+    "volume": 8157372.637734899
+  },
+  {
+    "price": 111.1592,
+    "exchange": "BitMart",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.1592,
+    "volume": 7670940.2595
+  },
+  {
+    "price": 111.09,
+    "exchange": "P2PB2B",
+    "pair": "LTC/USD",
+    "pairPrice": 111.09,
+    "volume": 7516384.17117
+  },
+  {
+    "price": 111.06,
+    "exchange": "Kraken",
+    "pair": "LTC/USD",
+    "pairPrice": 111.06,
+    "volume": 7068112.482266147
+  },
+  {
+    "price": 111.05,
+    "exchange": "BitMEX",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.05,
+    "volume": 6625998.140000001
+  },
+  {
+    "price": 111.03345082,
+    "exchange": "Bitrue",
+    "pair": "LTC/USDC",
+    "pairPrice": 0.999905,
+    "volume": 6578968.998626814
+  },
+  {
+    "price": 111.10143759,
+    "exchange": "DigiFinex",
+    "pair": "LTC/BTC",
+    "pairPrice": 30513.99,
+    "volume": 5944786.613989071
+  },
+  {
+    "price": 122.57206046270379,
+    "exchange": "Yobit",
+    "pair": "LTC/BTC",
+    "pairPrice": 30516.14424597331,
+    "volume": 5346991.519168777
+  },
+  {
+    "price": 111.13,
+    "exchange": "BTCAlpha",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.13,
+    "volume": 5311893.55230515
+  },
+  {
+    "price": 111,
+    "exchange": "Bibox",
+    "pair": "LTC/USDT",
+    "pairPrice": 111,
+    "volume": 4799418
+  },
+  {
+    "price": 111.03,
+    "exchange": "Mexc",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.03,
+    "volume": 3913897.32327
+  },
+  {
+    "price": 111.30145886265163,
+    "exchange": "Bitbank",
+    "pair": "LTC/JPY",
+    "pairPrice": 16064.7,
+    "volume": 3838243.8756698123
+  },
+  {
+    "price": 111.2855819,
+    "exchange": "GDAX",
+    "pair": "LTC/BTC",
+    "pairPrice": 30522.65,
+    "volume": 3384795.4843570967
+  },
+  {
+    "price": 111.2855819,
+    "exchange": "Coinbase",
+    "pair": "LTC/BTC",
+    "pairPrice": 30522.65,
+    "volume": 3384795.4843570967
+  },
+  {
+    "price": 111.1292574,
+    "exchange": "Binance",
+    "pair": "LTC/EUR",
+    "pairPrice": 101.8,
+    "volume": 3127990.0121274185
+  },
+  {
+    "price": 111.10475090000001,
+    "exchange": "OKEX",
+    "pair": "LTC/BTC",
+    "pairPrice": 30514.9,
+    "volume": 2901781.739102355
+  },
+  {
+    "price": 111.257455716,
+    "exchange": "CEX.IO",
+    "pair": "LTC/BTC",
+    "pairPrice": 30531.6,
+    "volume": 2809503.3377661267
+  },
+  {
+    "price": 112.36546082290566,
+    "exchange": "Exmo",
+    "pair": "ETH/LTC",
+    "pairPrice": 1948.2527,
+    "volume": 2809273.8905101395
+  },
+  {
+    "price": 111.08559168000001,
+    "exchange": "Kraken",
+    "pair": "LTC/EUR",
+    "pairPrice": 101.76,
+    "volume": 2773996.9110877346
+  },
+  {
+    "price": 111.096138309,
+    "exchange": "Bitrue",
+    "pair": "LTC/ETH",
+    "pairPrice": 1915.45,
+    "volume": 2680686.603693472
+  },
+  {
+    "price": 111.28208742,
+    "exchange": "GDAX",
+    "pair": "LTC/EUR",
+    "pairPrice": 101.94,
+    "volume": 2487370.7654034626
+  },
+  {
+    "price": 111.28208742,
+    "exchange": "Coinbase",
+    "pair": "LTC/EUR",
+    "pairPrice": 101.94,
+    "volume": 2487370.7654034626
+  },
+  {
+    "price": 111.36,
+    "exchange": "Bitfinex",
+    "pair": "LTC/USD",
+    "pairPrice": 111.36,
+    "volume": 2223996.5076183164
+  },
+  {
+    "price": 111.068519384,
+    "exchange": "CryptoMKT",
+    "pair": "LTC/BTC",
+    "pairPrice": 30518.36,
+    "volume": 2046780.5603065772
+  },
+  {
+    "price": 77.24,
+    "exchange": "Bkex",
+    "pair": "LTC/USDT",
+    "pairPrice": 77.24,
+    "volume": 1992768.8055
+  },
+  {
+    "price": 111.092934072,
+    "exchange": "Fmfw",
+    "pair": "LTC/BTC",
+    "pairPrice": 30518.36,
+    "volume": 1982059.0242408628
+  },
+  {
+    "price": 111.06768232200001,
+    "exchange": "HitBTC",
+    "pair": "LTC/BTC",
+    "pairPrice": 30518.13,
+    "volume": 1981605.3838678831
+  },
+  {
+    "price": 102.41528344252434,
+    "exchange": "Mercatox",
+    "pair": "LTC/BTC",
+    "pairPrice": 29089.38351711,
+    "volume": 1865028.0080009352
+  },
+  {
+    "price": 111.1338288,
+    "exchange": "Binance",
+    "pair": "LTC/ETH",
+    "pairPrice": 1915.44,
+    "volume": 1858271.3198549135
+  },
+  {
+    "price": 113.81475955978557,
+    "exchange": "Binance",
+    "pair": "LTC/TRY",
+    "pairPrice": 2965,
+    "volume": 1818986.90343205
+  },
+  {
+    "price": 111.435456,
+    "exchange": "BitMax",
+    "pair": "LTC/BTC",
+    "pairPrice": 30547,
+    "volume": 1780391.0196927362
+  },
+  {
+    "price": 111.09,
+    "exchange": "LBank",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.09,
+    "volume": 1746372.526164
+  },
+  {
+    "price": 111.43858499999999,
+    "exchange": "Whitebit",
+    "pair": "LTC/BTC",
+    "pairPrice": 30573,
+    "volume": 1665723.7917441
+  },
+  {
+    "price": 111.077,
+    "exchange": "Bitget",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.077,
+    "volume": 1633180.903934
+  },
+  {
+    "price": 111.75,
+    "exchange": "OKEXFutures",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.75,
+    "volume": 1613223
+  },
+  {
+    "price": 111.03,
+    "exchange": "CatEx",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.03,
+    "volume": 1591165.04541
+  },
+  {
+    "price": 111.84130337961,
+    "exchange": "Exmo",
+    "pair": "LTC/EUR",
+    "pairPrice": 102.45227,
+    "volume": 1564772.6188044662
+  },
+  {
+    "price": 111.13,
+    "exchange": "Gemini",
+    "pair": "LTC/USD",
+    "pairPrice": 111.13,
+    "volume": 1563398.327502
+  },
+  {
+    "price": 111.07343257209776,
+    "exchange": "Binance",
+    "pair": "LTC/TUSD",
+    "pairPrice": 0.9983231401410907,
+    "volume": 1537381.4653619411
+  },
+  {
+    "price": 113.81475955978557,
+    "exchange": "Btcturk",
+    "pair": "LTC/TRY",
+    "pairPrice": 2965,
+    "volume": 1502272.1383982955
+  },
+  {
+    "price": 111.09692275,
+    "exchange": "P2PB2B",
+    "pair": "LTC/BTC",
+    "pairPrice": 30512.75,
+    "volume": 1386163.9708394196
+  },
+  {
+    "price": 112.984658,
+    "exchange": "Exmo",
+    "pair": "LTC/USD",
+    "pairPrice": 112.984658,
+    "volume": 1360922.9832345739
+  },
+  {
+    "price": 111.074964,
+    "exchange": "Kucoin",
+    "pair": "LTC/BTC",
+    "pairPrice": 30515.1,
+    "volume": 1354339.637094432
+  },
+  {
+    "price": 113.3456723545,
+    "exchange": "Exmo",
+    "pair": "LTC/BTC",
+    "pairPrice": 31161.95,
+    "volume": 1350680.3671502103
+  },
+  {
+    "price": 110.96,
+    "exchange": "Btse",
+    "pair": "LTC/USD",
+    "pairPrice": 110.96,
+    "volume": 1250744.34214183
+  },
+  {
+    "price": 111.37810379999999,
+    "exchange": "Bitfinex",
+    "pair": "LTC/BTC",
+    "pairPrice": 30543,
+    "volume": 1229852.1006887907
+  },
+  {
+    "price": 111.05,
+    "exchange": "Crypto.com",
+    "pair": "LTC/USD",
+    "pairPrice": 111.05,
+    "volume": 1218452.271355
+  },
+  {
+    "price": 111.36,
+    "exchange": "Bitstamp",
+    "pair": "LTC/USD",
+    "pairPrice": 111.36,
+    "volume": 1217207.5752357119
+  },
+  {
+    "price": 111.02945120000001,
+    "exchange": "OKEX",
+    "pair": "LTC/USDC",
+    "pairPrice": 0.999905,
+    "volume": 1198044.5718316566
+  },
+  {
+    "price": 110.95402866530554,
+    "exchange": "Oceanex",
+    "pair": "LTC/VET",
+    "pairPrice": 0.020151476328606165,
+    "volume": 1140822.1007389456
+  },
+  {
+    "price": 110.87916237209998,
+    "exchange": "Bibox",
+    "pair": "LTC/ETH",
+    "pairPrice": 1915.33,
+    "volume": 1056567.5382437408
+  },
+  {
+    "price": 111.47239050716477,
+    "exchange": "Coinsbit",
+    "pair": "LTC/BTC",
+    "pairPrice": 30520.64706304,
+    "volume": 1029857.0783677329
+  },
+  {
+    "price": 111.51426,
+    "exchange": "Kraken",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.51426,
+    "volume": 996359.2204447754
+  },
+  {
+    "price": 110.89132598815665,
+    "exchange": "Binance",
+    "pair": "LTC/BNB",
+    "pairPrice": 244.3078342986487,
+    "volume": 972444.8031113221
+  },
+  {
+    "price": 111.11,
+    "exchange": "Oceanex",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.11,
+    "volume": 915758.6434331
+  },
+  {
+    "price": 49.946,
+    "exchange": "Gokumarket",
+    "pair": "LTC/USDT",
+    "pairPrice": 49.946,
+    "volume": 906844.1993779999
+  },
+  {
+    "price": 113.81744658614954,
+    "exchange": "Paribu",
+    "pair": "LTC/TRY",
+    "pairPrice": 2965.07,
+    "volume": 866616.3729310926
+  },
+  {
+    "price": 111.2,
+    "exchange": "ExMarkets",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.2,
+    "volume": 855182.6781520001
+  },
+  {
+    "price": 111.067,
+    "exchange": "Crypto.com",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.067,
+    "volume": 837375.652058
+  },
+  {
+    "price": 111.627851874,
+    "exchange": "Bitrue",
+    "pair": "LTC/BTR",
+    "pairPrice": 0.02452982,
+    "volume": 831831.21729097
+  },
+  {
+    "price": 111.47858316,
+    "exchange": "Cryptology",
+    "pair": "LTC/EUR",
+    "pairPrice": 102.12,
+    "volume": 764783.1911686925
+  },
+  {
+    "price": 110.1459572,
+    "exchange": "Vindax",
+    "pair": "LTC/BTC",
+    "pairPrice": 30427.06,
+    "volume": 758154.1192420244
+  },
+  {
+    "price": 111.2681405205,
+    "exchange": "BitMart",
+    "pair": "LTC/BTC",
+    "pairPrice": 30517.95,
+    "volume": 745372.0865406345
+  },
+  {
+    "price": 111.66939040000001,
+    "exchange": "Deribit",
+    "pair": "LTC/USDC",
+    "pairPrice": 0.999905,
+    "volume": 741194.41184096
+  },
+  {
+    "price": 111.39125172,
+    "exchange": "Bitstamp",
+    "pair": "LTC/EUR",
+    "pairPrice": 102.04,
+    "volume": 723967.0540146397
+  },
+  {
+    "price": 111.24943030000001,
+    "exchange": "Bybit",
+    "pair": "LTC/USDC",
+    "pairPrice": 0.999905,
+    "volume": 723001.770822561
+  },
+  {
+    "price": 111.02,
+    "exchange": "CoinEx",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.02,
+    "volume": 720144.3950069459
+  },
+  {
+    "price": 111.2354122,
+    "exchange": "BitMart",
+    "pair": "LTC/ETH",
+    "pairPrice": 1915.87,
+    "volume": 676111.3774780199
+  },
+  {
+    "price": 111.38,
+    "exchange": "Btcturk",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.38,
+    "volume": 663667.8984103688
+  },
+  {
+    "price": 111.44,
+    "exchange": "OKEXFutures",
+    "pair": "LTC/USD",
+    "pairPrice": 111.44,
+    "volume": 634152.6074799999
+  },
+  {
+    "price": 49.905014019999996,
+    "exchange": "Gokumarket",
+    "pair": "LTC/BTC",
+    "pairPrice": 19701.94,
+    "volume": 617518.1558316575
+  },
+  {
+    "price": 111.2189373,
+    "exchange": "BigOne",
+    "pair": "LTC/BTC",
+    "pairPrice": 30512.74,
+    "volume": 613048.792101957
+  },
+  {
+    "price": 110.9741,
+    "exchange": "Gate.io",
+    "pair": "LTC/USD",
+    "pairPrice": 110.9741,
+    "volume": 613023.49687412
+  },
+  {
+    "price": 110.96317710000001,
+    "exchange": "ExMarkets",
+    "pair": "LTC/ETH",
+    "pairPrice": 1915.47,
+    "volume": 600686.7313550148
+  },
+  {
+    "price": 111.0665556,
+    "exchange": "CatEx",
+    "pair": "LTC/BTC",
+    "pairPrice": 30512.79,
+    "volume": 577647.0486190404
+  },
+  {
+    "price": 111.2827345,
+    "exchange": "Kraken",
+    "pair": "LTC/BTC",
+    "pairPrice": 30513.5,
+    "volume": 558962.7521328963
+  },
+  {
+    "price": 111.18496521,
+    "exchange": "Bitget",
+    "pair": "LTC/ETH",
+    "pairPrice": 1915.43,
+    "volume": 546112.5638557767
+  },
+  {
+    "price": 111.069,
+    "exchange": "Poloniex",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.069,
+    "volume": 497697.226
+  },
+  {
+    "price": 111.25094490000001,
+    "exchange": "HuobiPro",
+    "pair": "LTC/BTC",
+    "pairPrice": 30513.15,
+    "volume": 495618.3430180602
+  },
+  {
+    "price": 110.33734668067187,
+    "exchange": "Luno",
+    "pair": "LTC/MYR",
+    "pairPrice": 515,
+    "volume": 487176.6354834057
+  },
+  {
+    "price": 110.83800000000001,
+    "exchange": "Xt",
+    "pair": "LTC/XT",
+    "pairPrice": 2.94,
+    "volume": 476773.0685466
+  },
+  {
+    "price": 112.38618157867029,
+    "exchange": "Exmo",
+    "pair": "LTC/GBP",
+    "pairPrice": 88.44781773,
+    "volume": 471912.3477706972
+  },
+  {
+    "price": 111.2844777737,
+    "exchange": "Cryptology",
+    "pair": "LTC/BTC",
+    "pairPrice": 30525.11,
+    "volume": 451882.94804769836
+  },
+  {
+    "price": 110.956671299861,
+    "exchange": "Btse",
+    "pair": "LTC/USDT",
+    "pairPrice": 110.956671299861,
+    "volume": 418170.4405123947
+  },
+  {
+    "price": 111.50961918860273,
+    "exchange": "PancakeSwapV2",
+    "pair": "LTC/WBNB",
+    "pairPrice": 245.19,
+    "volume": 408060.6273596092
+  },
+  {
+    "price": 111.48,
+    "exchange": "Cryptology",
+    "pair": "LTC/USD",
+    "pairPrice": 111.48,
+    "volume": 402626.4711887361
+  },
+  {
+    "price": 111.2684457,
+    "exchange": "Tidex",
+    "pair": "LTC/BTC",
+    "pairPrice": 30517.95,
+    "volume": 394756.67570548464
+  },
+  {
+    "price": 111.23943125000001,
+    "exchange": "BitMart",
+    "pair": "LTC/USDC",
+    "pairPrice": 0.999905,
+    "volume": 377850.263614534
+  },
+  {
+    "price": 115.96043265037122,
+    "exchange": "FinexBox",
+    "pair": "LTC/BTC",
+    "pairPrice": 30516.14424597331,
+    "volume": 373421.1309966705
+  },
+  {
+    "price": 49.87856899999999,
+    "exchange": "Gokumarket",
+    "pair": "LTC/ETH",
+    "pairPrice": 1125.8,
+    "volume": 370237.64440181997
+  },
+  {
+    "price": 113.30690449659261,
+    "exchange": "Luno",
+    "pair": "LTC/ZAR",
+    "pairPrice": 2134,
+    "volume": 367629.803677515
+  },
+  {
+    "price": 111.06175888874579,
+    "exchange": "Btse",
+    "pair": "LTC/USDC",
+    "pairPrice": 0.999905,
+    "volume": 354014.5153362149
+  },
+  {
+    "price": 103.01679043,
+    "exchange": "ExMarkets",
+    "pair": "LTC/BTC",
+    "pairPrice": 28278.01,
+    "volume": 346314.40189298795
+  },
+  {
+    "price": 92.36,
+    "exchange": "itBit",
+    "pair": "LTC/USD",
+    "pairPrice": 92.36,
+    "volume": 343585.3278126144
+  },
+  {
+    "price": 111.31897959999999,
+    "exchange": "Kucoin",
+    "pair": "LTC/ETH",
+    "pairPrice": 1915.33,
+    "volume": 320508.0412534238
+  },
+  {
+    "price": 110.8,
+    "exchange": "BitMax",
+    "pair": "LTC/USDT",
+    "pairPrice": 110.8,
+    "volume": 318609.9428
+  },
+  {
+    "price": 111.09320000000001,
+    "exchange": "OKEX",
+    "pair": "LTC/ETH",
+    "pairPrice": 1915.4,
+    "volume": 305920.545990558
+  },
+  {
+    "price": 110.883635772,
+    "exchange": "Bibox",
+    "pair": "LTC/BTC",
+    "pairPrice": 30521.4,
+    "volume": 295504.88933238
+  },
+  {
+    "price": 111.76633618973787,
+    "exchange": "GDAX",
+    "pair": "LTC/GBP",
+    "pairPrice": 87.96,
+    "volume": 292270.09537200443
+  },
+  {
+    "price": 111.76633618973787,
+    "exchange": "Coinbase",
+    "pair": "LTC/GBP",
+    "pairPrice": 87.96,
+    "volume": 292270.09537200443
+  },
+  {
+    "price": 111.13408283205963,
+    "exchange": "Binance",
+    "pair": "LTC/RUB",
+    "pairPrice": 9871.6,
+    "volume": 292007.62129568023
+  },
+  {
+    "price": 111.08,
+    "exchange": "Bilaxy",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.08,
+    "volume": 290331.12896
+  },
+  {
+    "price": 111.28,
+    "exchange": "BinanceUS",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.28,
+    "volume": 289940.9205576
+  },
+  {
+    "price": 111.1292574,
+    "exchange": "Tidex",
+    "pair": "LTC/EUR",
+    "pairPrice": 101.8,
+    "volume": 280131.88422029855
+  },
+  {
+    "price": 107.38492191,
+    "exchange": "Currency.com",
+    "pair": "LTC/EUR",
+    "pairPrice": 98.37,
+    "volume": 279750.82253602304
+  },
+  {
+    "price": 111.47,
+    "exchange": "Whitebit",
+    "pair": "LTC/USD",
+    "pairPrice": 111.47,
+    "volume": 265592.033628
+  },
+  {
+    "price": 111.15416373599999,
+    "exchange": "Xt",
+    "pair": "LTC/BTC",
+    "pairPrice": 30512.8,
+    "volume": 263180.2917502102
+  },
+  {
+    "price": 110.9618554420415,
+    "exchange": "Bololex",
+    "pair": "LTC/BTC",
+    "pairPrice": 30473.142955,
+    "volume": 255948.23245332923
+  },
+  {
+    "price": 111.21474,
+    "exchange": "CryptoMKT",
+    "pair": "LTC/EURS",
+    "pairPrice": 1.092,
+    "volume": 248292.02292804
+  },
+  {
+    "price": 111.21474,
+    "exchange": "HitBTC",
+    "pair": "LTC/EURS",
+    "pairPrice": 1.092,
+    "volume": 240544.7722016976
+  },
+  {
+    "price": 111.09,
+    "exchange": "CoinTiger",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.09,
+    "volume": 216724.39
+  },
+  {
+    "price": 111.32,
+    "exchange": "Cryptology",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.32,
+    "volume": 216270.56158968
+  },
+  {
+    "price": 115.36420310289749,
+    "exchange": "Whitebit",
+    "pair": "LTC/UAH",
+    "pairPrice": 4233.27,
+    "volume": 215107.60857600963
+  },
+  {
+    "price": 111.12234018,
+    "exchange": "Gate.io",
+    "pair": "LTC/BTC",
+    "pairPrice": 30452.82,
+    "volume": 210799.97653462397
+  },
+  {
+    "price": 111.07710548499999,
+    "exchange": "Crypto.com",
+    "pair": "LTC/BTC",
+    "pairPrice": 30514.85,
+    "volume": 206379.81798875867
+  },
+  {
+    "price": 111.02945120000001,
+    "exchange": "Kucoin",
+    "pair": "LTC/USDC",
+    "pairPrice": 0.999905,
+    "volume": 186578.3087686378
+  },
+  {
+    "price": 111.11800075937066,
+    "exchange": "Bitso",
+    "pair": "LTC/MXN",
+    "pairPrice": 1902.9,
+    "volume": 179517.0357795919
+  },
+  {
+    "price": 111.019766832,
+    "exchange": "Currency.com",
+    "pair": "LTC/BTC",
+    "pairPrice": 30513.6,
+    "volume": 174636.979813296
+  },
+  {
+    "price": 111.15,
+    "exchange": "BigOne",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.15,
+    "volume": 173762.8835085
+  },
+  {
+    "price": 111.21489135,
+    "exchange": "Poloniex",
+    "pair": "LTC/BTC",
+    "pairPrice": 30511.63,
+    "volume": 173406.1365464
+  },
+  {
+    "price": 111.36021849,
+    "exchange": "Bybit",
+    "pair": "LTC/BTC",
+    "pairPrice": 30518.01,
+    "volume": 171589.8220487172
+  },
+  {
+    "price": 112.74494560072966,
+    "exchange": "Binance",
+    "pair": "LTC/BRL",
+    "pairPrice": 539,
+    "volume": 171216.74064634438
+  },
+  {
+    "price": 111.20567241,
+    "exchange": "Whitebit",
+    "pair": "LTC/EUR",
+    "pairPrice": 101.87,
+    "volume": 169509.28293685097
+  },
+  {
+    "price": 111.121863629,
+    "exchange": "Tidex",
+    "pair": "LTC/ETH",
+    "pairPrice": 1915.8942005,
+    "volume": 166881.16802681788
+  },
+  {
+    "price": 111.15794825,
+    "exchange": "Mexc",
+    "pair": "LTC/BTC",
+    "pairPrice": 30512.75,
+    "volume": 164175.95440526825
+  },
+  {
+    "price": 115.87931924325027,
+    "exchange": "Exmo",
+    "pair": "LTC/UAH",
+    "pairPrice": 4252.1721,
+    "volume": 149798.39784549104
+  },
+  {
+    "price": 111.33767776,
+    "exchange": "Bitstamp",
+    "pair": "LTC/BTC",
+    "pairPrice": 30512,
+    "volume": 149384.72320598928
+  },
+  {
+    "price": 111.1146744,
+    "exchange": "P2PB2B",
+    "pair": "LTC/ETH",
+    "pairPrice": 1915.44,
+    "volume": 147653.4017003472
+  },
+  {
+    "price": 111.11,
+    "exchange": "Maicoin",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.11,
+    "volume": 146620.3471152
+  },
+  {
+    "price": 145.64079678266717,
+    "exchange": "Bitbns",
+    "pair": "LTC/INR",
+    "pairPrice": 11956.6,
+    "volume": 135966.18449806783
+  },
+  {
+    "price": 111.2894265,
+    "exchange": "Poloniex",
+    "pair": "LTC/USDC",
+    "pairPrice": 0.999905,
+    "volume": 128751.59743615001
+  },
+  {
+    "price": 112.15834042243208,
+    "exchange": "Maicoin",
+    "pair": "LTC/TWD",
+    "pairPrice": 3495,
+    "volume": 126761.93956880295
+  },
+  {
+    "price": 111.05691600059606,
+    "exchange": "Tidex",
+    "pair": "LTC/USDC",
+    "pairPrice": 0.999905,
+    "volume": 126529.56506995366
+  },
+  {
+    "price": 104.86,
+    "exchange": "BinanceUS",
+    "pair": "LTC/USD",
+    "pairPrice": 104.86,
+    "volume": 126113.65961
+  },
+  {
+    "price": 111.2,
+    "exchange": "Bitbns",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.2,
+    "volume": 123649.1736
+  },
+  {
+    "price": 110.991,
+    "exchange": "Bitso",
+    "pair": "LTC/USD",
+    "pairPrice": 110.991,
+    "volume": 115977.98792658976
+  },
+  {
+    "price": 112.15402821423233,
+    "exchange": "Bitso",
+    "pair": "LTC/BRL",
+    "pairPrice": 536.175,
+    "volume": 112553.06240285952
+  },
+  {
+    "price": 111.56,
+    "exchange": "Probit",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.56,
+    "volume": 108207.9467532453
+  },
+  {
+    "price": 111.10928119958884,
+    "exchange": "Luno",
+    "pair": "LTC/BTC",
+    "pairPrice": 30516.14424597331,
+    "volume": 105987.14333628779
+  },
+  {
+    "price": 111.36137599999999,
+    "exchange": "Gemini",
+    "pair": "LTC/BTC",
+    "pairPrice": 30520,
+    "volume": 95993.5791510906
+  },
+  {
+    "price": 96.21639642547426,
+    "exchange": "Mercatox",
+    "pair": "ETH/LTC",
+    "pairPrice": 1732.77889673,
+    "volume": 88648.79507881713
+  },
+  {
+    "price": 111.1294417,
+    "exchange": "LBank",
+    "pair": "LTC/USDC",
+    "pairPrice": 0.999905,
+    "volume": 87493.87639203551
+  },
+  {
+    "price": 112.46904261033212,
+    "exchange": "MercadoBitcoin",
+    "pair": "LTC/BRL",
+    "pairPrice": 537.68098999,
+    "volume": 83472.00249028229
+  },
+  {
+    "price": 111.15943885,
+    "exchange": "Bitget",
+    "pair": "LTC/USDC",
+    "pairPrice": 0.999905,
+    "volume": 82607.58118418326
+  },
+  {
+    "price": 111.207592,
+    "exchange": "Probit",
+    "pair": "LTC/BTC",
+    "pairPrice": 30518,
+    "volume": 82064.9604391
+  },
+  {
+    "price": 111.4277080792949,
+    "exchange": "Kraken",
+    "pair": "LTC/GBP",
+    "pairPrice": 87.6935,
+    "volume": 82061.5908500342
+  },
+  {
+    "price": 105.69476411999999,
+    "exchange": "BinanceUS",
+    "pair": "LTC/BTC",
+    "pairPrice": 28894.14,
+    "volume": 79842.2108419584
+  },
+  {
+    "price": 106.10244141032496,
+    "exchange": "Btse",
+    "pair": "LTC/GBP",
+    "pairPrice": 83.50252020974,
+    "volume": 77441.18005174119
+  },
+  {
+    "price": 111.13155698838997,
+    "exchange": "Bitblinx",
+    "pair": "LTC/ETH",
+    "pairPrice": 1915.5936352,
+    "volume": 76610.14469319009
+  },
+  {
+    "price": 111.42024547830735,
+    "exchange": "Bitopro",
+    "pair": "LTC/TWD",
+    "pairPrice": 3472,
+    "volume": 67404.30220867757
+  },
+  {
+    "price": 111.16799830450637,
+    "exchange": "Indodax",
+    "pair": "LTC/IDR",
+    "pairPrice": 1672000,
+    "volume": 65192.64923774384
+  },
+  {
+    "price": 111.19220093283,
+    "exchange": "BTCMarkets",
+    "pair": "LTC/AUD",
+    "pairPrice": 166.78,
+    "volume": 61752.670232058255
+  },
+  {
+    "price": 114.15644080022217,
+    "exchange": "AltcoinTrader",
+    "pair": "LTC/ZAR",
+    "pairPrice": 2150,
+    "volume": 61698.131559296075
+  },
+  {
+    "price": 111.31321406676,
+    "exchange": "Bittrex",
+    "pair": "LTC/BTC",
+    "pairPrice": 30519.849,
+    "volume": 59831.74526646674
+  },
+  {
+    "price": 111.2398434538675,
+    "exchange": "OKEX",
+    "pair": "LTC/OKB",
+    "pairPrice": 44.3186627306245,
+    "volume": 59601.83991408111
+  },
+  {
+    "price": 111.63534,
+    "exchange": "Kraken",
+    "pair": "LTC/ETH",
+    "pairPrice": 1915.5,
+    "volume": 59042.46134756619
+  },
+  {
+    "price": 110.8922571182438,
+    "exchange": "Btse",
+    "pair": "LTC/EUR",
+    "pairPrice": 101.582895798575,
+    "volume": 55134.443845357026
+  },
+  {
+    "price": 110.47216509515486,
+    "exchange": "CoinJar",
+    "pair": "LTC/AUD",
+    "pairPrice": 165.7,
+    "volume": 53725.255643113545
+  },
+  {
+    "price": 111.19174147976443,
+    "exchange": "Btse",
+    "pair": "LTC/ETH",
+    "pairPrice": 1915.47,
+    "volume": 52467.0215291956
+  },
+  {
+    "price": 111.5838468,
+    "exchange": "Btse",
+    "pair": "LTC/BTC",
+    "pairPrice": 30512.4,
+    "volume": 51635.7684525947
+  },
+  {
+    "price": 77.3526508,
+    "exchange": "Bkex",
+    "pair": "LTC/USDC",
+    "pairPrice": 0.999905,
+    "volume": 50837.88294226501
+  },
+  {
+    "price": 111.23521991108099,
+    "exchange": "LiteBit",
+    "pair": "LTC/EUR",
+    "pairPrice": 101.89706699999999,
+    "volume": 47097.14339025077
+  },
+  {
+    "price": 112.8209753329562,
+    "exchange": "Binance",
+    "pair": "LTC/GBP",
+    "pairPrice": 88.79,
+    "volume": 41417.08314571902
+  },
+  {
+    "price": 83.907,
+    "exchange": "ZBCom",
+    "pair": "LTC/USDT",
+    "pairPrice": 83.907,
+    "volume": 34753.608144
+  },
+  {
+    "price": 111.90824841630867,
+    "exchange": "NovaDAX",
+    "pair": "LTC/BRL",
+    "pairPrice": 535,
+    "volume": 33283.26870344493
+  },
+  {
+    "price": 99.30340533300631,
+    "exchange": "BitcoinTrade",
+    "pair": "LTC/BRL",
+    "pairPrice": 474.74,
+    "volume": 32122.45338049988
+  },
+  {
+    "price": 111.07886195838114,
+    "exchange": "Kraken",
+    "pair": "LTC/AUD",
+    "pairPrice": 166.61,
+    "volume": 31866.151350692693
+  },
+  {
+    "price": 111.34985268206376,
+    "exchange": "Bitblinx",
+    "pair": "LTC/BTC",
+    "pairPrice": 30577.75605,
+    "volume": 31438.825660368
+  },
+  {
+    "price": 111.2189873648,
+    "exchange": "CoinEx",
+    "pair": "LTC/BTC",
+    "pairPrice": 30510.41,
+    "volume": 30298.741652387405
+  },
+  {
+    "price": 110.60860999999998,
+    "exchange": "Kucoin",
+    "pair": "LTC/KCS",
+    "pairPrice": 6.67,
+    "volume": 29143.077477643845
+  },
+  {
+    "price": 111.13322,
+    "exchange": "Gemini",
+    "pair": "LTC/ETH",
+    "pairPrice": 1916.09,
+    "volume": 28278.641487273846
+  },
+  {
+    "price": 116.15842014275553,
+    "exchange": "WazirX",
+    "pair": "LTC/INR",
+    "pairPrice": 9536.2,
+    "volume": 25004.14536150941
+  },
+  {
+    "price": 112.18934100000001,
+    "exchange": "CoinJar",
+    "pair": "LTC/USDC",
+    "pairPrice": 0.999905,
+    "volume": 24217.07264153721
+  },
+  {
+    "price": 113.58680548349852,
+    "exchange": "Btse",
+    "pair": "LTC/USDP",
+    "pairPrice": 0.9999718767805135,
+    "volume": 23362.93061140822
+  },
+  {
+    "price": 111.65324604,
+    "exchange": "Bitpanda Pro",
+    "pair": "LTC/EUR",
+    "pairPrice": 102.28,
+    "volume": 23171.690682185825
+  },
+  {
+    "price": 109.12992,
+    "exchange": "CoinJar",
+    "pair": "LTC/BTC",
+    "pairPrice": 29760,
+    "volume": 22151.719749828306
+  },
+  {
+    "price": 111.521,
+    "exchange": "CEX.IO",
+    "pair": "LTC/USD",
+    "pairPrice": 111.521,
+    "volume": 20516.16310758719
+  },
+  {
+    "price": 111.24343087000001,
+    "exchange": "Mexc",
+    "pair": "LTC/USDC",
+    "pairPrice": 0.999905,
+    "volume": 19359.694274306104
+  },
+  {
+    "price": 112.94138477999999,
+    "exchange": "CoinMate",
+    "pair": "LTC/EUR",
+    "pairPrice": 103.46,
+    "volume": 17894.217450263277
+  },
+  {
+    "price": 112.74494560072966,
+    "exchange": "Tidex",
+    "pair": "LTC/BRL",
+    "pairPrice": 539,
+    "volume": 15790.601115340656
+  },
+  {
+    "price": 111.28909255,
+    "exchange": "Bittrex",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.28909255,
+    "volume": 14668.93470478
+  },
+  {
+    "price": 111.58048572903267,
+    "exchange": "HuobiPro",
+    "pair": "LTC/HT",
+    "pairPrice": 2.718574343938667,
+    "volume": 14234.418943550154
+  },
+  {
+    "price": 109.3,
+    "exchange": "CoinJar",
+    "pair": "LTC/USDT",
+    "pairPrice": 109.3,
+    "volume": 13142.053062784
+  },
+  {
+    "price": 112.0712920865721,
+    "exchange": "Bitstamp",
+    "pair": "LTC/GBP",
+    "pairPrice": 88.2,
+    "volume": 13060.637439911503
+  },
+  {
+    "price": 123.15085827787826,
+    "exchange": "Kuna",
+    "pair": "LTC/UAH",
+    "pairPrice": 4519,
+    "volume": 12393.335883137584
+  },
+  {
+    "price": 112.46130964651218,
+    "exchange": "Luno",
+    "pair": "LTC/NGN",
+    "pairPrice": 85501,
+    "volume": 11245.74859619842
+  },
+  {
+    "price": 108.95461082191055,
+    "exchange": "CoinMate",
+    "pair": "LTC/CZK",
+    "pairPrice": 2372.6,
+    "volume": 10995.65621625544
+  },
+  {
+    "price": 112.878,
+    "exchange": "Bittrex",
+    "pair": "LTC/USD",
+    "pairPrice": 112.878,
+    "volume": 10953.43439399
+  },
+  {
+    "price": 111.24,
+    "exchange": "Kuna",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.24,
+    "volume": 8719.300224720004
+  },
+  {
+    "price": 110,
+    "exchange": "Bitopro",
+    "pair": "LTC/USDT",
+    "pairPrice": 110,
+    "volume": 8362.1337184
+  },
+  {
+    "price": 109.818156,
+    "exchange": "Btcturk",
+    "pair": "LTC/BTC",
+    "pairPrice": 30522,
+    "volume": 8206.140826275818
+  },
+  {
+    "price": 115.38409691271,
+    "exchange": "Binance",
+    "pair": "LTC/UAH",
+    "pairPrice": 4234,
+    "volume": 7615.3102815977045
+  },
+  {
+    "price": 112.10519894,
+    "exchange": "Poloniex",
+    "pair": "LTC/USDD",
+    "pairPrice": 0.998977,
+    "volume": 7298.18630982
+  },
+  {
+    "price": 103.47683997,
+    "exchange": "TheRockTrading",
+    "pair": "LTC/EUR",
+    "pairPrice": 94.79,
+    "volume": 6439.8233330361
+  },
+  {
+    "price": 76.9437394,
+    "exchange": "CoinEgg",
+    "pair": "LTC/BTC",
+    "pairPrice": 16550.6,
+    "volume": 5911.741385580799
+  },
+  {
+    "price": 113.3165286653118,
+    "exchange": "CoinJar",
+    "pair": "LTC/GBP",
+    "pairPrice": 89.18,
+    "volume": 5832.4139731213545
+  },
+  {
+    "price": 104.65145698413559,
+    "exchange": "Lykke",
+    "pair": "LTC/GBP",
+    "pairPrice": 82.36059685,
+    "volume": 4721.085363070726
+  },
+  {
+    "price": 1.3786843895,
+    "exchange": "Bitfinex",
+    "pair": "LTC/UST",
+    "pairPrice": 0.01237265,
+    "volume": 4047.0094943931217
+  },
+  {
+    "price": 109.99096730146388,
+    "exchange": "SouthXchange",
+    "pair": "LTC/BTC",
+    "pairPrice": 30411.539888,
+    "volume": 3918.9501315533225
+  },
+  {
+    "price": 109.99096730146388,
+    "exchange": "Cashierest",
+    "pair": "LTC/BTC",
+    "pairPrice": 30411.539888,
+    "volume": 3918.9501315533225
+  },
+  {
+    "price": 112.90992080286617,
+    "exchange": "Tidex",
+    "pair": "LTC/GBP",
+    "pairPrice": 88.86,
+    "volume": 3603.505722511692
+  },
+  {
+    "price": 111.897774072,
+    "exchange": "Lcx",
+    "pair": "LTC/EUR",
+    "pairPrice": 102.504,
+    "volume": 2671.391509307892
+  },
+  {
+    "price": 111.43941225,
+    "exchange": "CoinEx",
+    "pair": "LTC/USDC",
+    "pairPrice": 0.999905,
+    "volume": 2475.5571966162956
+  },
+  {
+    "price": 113.08259,
+    "exchange": "Lykke",
+    "pair": "LTC/USDT",
+    "pairPrice": 113.08259,
+    "volume": 2134.110230307509
+  },
+  {
+    "price": 99.874089816,
+    "exchange": "TheRockTrading",
+    "pair": "LTC/BTC",
+    "pairPrice": 24372.85,
+    "volume": 2029.026601161
+  },
+  {
+    "price": 112,
+    "exchange": "WazirX",
+    "pair": "LTC/USDT",
+    "pairPrice": 112,
+    "volume": 1786.848
+  },
+  {
+    "price": 111.75,
+    "exchange": "CEX.IO",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.75,
+    "volume": 1720.1529353025
+  },
+  {
+    "price": 111.25503908672181,
+    "exchange": "Kraken",
+    "pair": "LTC/JPY",
+    "pairPrice": 16058,
+    "volume": 1387.6976467171394
+  },
+  {
+    "price": 122.91448039326797,
+    "exchange": "OpenOcean",
+    "pair": "LTC/USDT",
+    "pairPrice": 122.91448039326797,
+    "volume": 1339.5480651956775
+  },
+  {
+    "price": 109.86801990000001,
+    "exchange": "CoinMate",
+    "pair": "LTC/BTC",
+    "pairPrice": 30341.9,
+    "volume": 1267.680616593119
+  },
+  {
+    "price": 111.04119433499999,
+    "exchange": "CryptoMKT",
+    "pair": "LTC/ETH",
+    "pairPrice": 1915.395,
+    "volume": 1030.129159845795
+  },
+  {
+    "price": 111.043977039,
+    "exchange": "Fmfw",
+    "pair": "LTC/ETH",
+    "pairPrice": 1915.443,
+    "volume": 1029.708213234597
+  },
+  {
+    "price": 111.03452743999999,
+    "exchange": "HitBTC",
+    "pair": "LTC/ETH",
+    "pairPrice": 1915.28,
+    "volume": 1028.7323111035998
+  },
+  {
+    "price": 105.00186524099999,
+    "exchange": "CEX.IO",
+    "pair": "LTC/EUR",
+    "pairPrice": 96.187,
+    "volume": 882.2560876451863
+  },
+  {
+    "price": 113.4062643,
+    "exchange": "Vindax",
+    "pair": "LTC/ETH",
+    "pairPrice": 1915.97,
+    "volume": 758.2342831098
+  },
+  {
+    "price": 112.2115591229965,
+    "exchange": "Lykke",
+    "pair": "LTC/CHF",
+    "pairPrice": 100.4,
+    "volume": 742.788956816473
+  },
+  {
+    "price": 109.861969121335,
+    "exchange": "SouthXchange",
+    "pair": "LTC/USDC",
+    "pairPrice": 0.999905,
+    "volume": 741.8397582974707
+  },
+  {
+    "price": 109.861969121335,
+    "exchange": "Cashierest",
+    "pair": "LTC/USDC",
+    "pairPrice": 0.999905,
+    "volume": 741.8397582974707
+  },
+  {
+    "price": 89.27,
+    "exchange": "Hotbit",
+    "pair": "LTC/USDT",
+    "pairPrice": 89.27,
+    "volume": 736.763164
+  },
+  {
+    "price": 114.59076623545278,
+    "exchange": "Chainex",
+    "pair": "LTC/ZAR",
+    "pairPrice": 2158.18,
+    "volume": 724.9937505572769
+  },
+  {
+    "price": 106.31072223716441,
+    "exchange": "SIGEN.pro",
+    "pair": "LTC/RUB",
+    "pairPrice": 9443.16,
+    "volume": 690.2986899467501
+  },
+  {
+    "price": 116.71943483163368,
+    "exchange": "Tidex",
+    "pair": "LTC/UAH",
+    "pairPrice": 4283,
+    "volume": 653.9356821395237
+  },
+  {
+    "price": 111.2615066612,
+    "exchange": "HitBTC",
+    "pair": "LTC/DAI",
+    "pairPrice": 0.999629,
+    "volume": 632.4801682700595
+  },
+  {
+    "price": 111.76943867147796,
+    "exchange": "Lcx",
+    "pair": "LTC/LCX",
+    "pairPrice": 0.06875979498040392,
+    "volume": 628.9601622360079
+  },
+  {
+    "price": 80.15238480000001,
+    "exchange": "BitcoinTrade",
+    "pair": "LTC/USDC",
+    "pairPrice": 0.999905,
+    "volume": 612.1237627176
+  },
+  {
+    "price": 114.16215368255659,
+    "exchange": "Gate.io",
+    "pair": "LTC/TRY",
+    "pairPrice": 2974.05,
+    "volume": 567.6893807823235
+  },
+  {
+    "price": 111.314424125,
+    "exchange": "HitBTC",
+    "pair": "LTC/USDC",
+    "pairPrice": 0.999905,
+    "volume": 539.38040199344
+  },
+  {
+    "price": 111.314424125,
+    "exchange": "Fmfw",
+    "pair": "LTC/USDC",
+    "pairPrice": 0.999905,
+    "volume": 539.38040199344
+  },
+  {
+    "price": 116.596615572,
+    "exchange": "Graviex",
+    "pair": "LTC/BTC",
+    "pairPrice": 31597.9988,
+    "volume": 515.0772089508672
+  },
+  {
+    "price": 106.8193216414899,
+    "exchange": "FreiExchange",
+    "pair": "LTC/BTC",
+    "pairPrice": 30516.14424597331,
+    "volume": 484.3012795111976
+  },
+  {
+    "price": 1.6193580512999999,
+    "exchange": "Currency.com",
+    "pair": "LTC/BYN",
+    "pairPrice": 0.00497598,
+    "volume": 410.9153442334776
+  },
+  {
+    "price": 113.2389681960767,
+    "exchange": "Koinim",
+    "pair": "LTC/TRY",
+    "pairPrice": 2950,
+    "volume": 397.71043032635964
+  },
+  {
+    "price": 95.444799999966,
+    "exchange": "STEX",
+    "pair": "LTC/BTC",
+    "pairPrice": 28071.99999999,
+    "volume": 291.13365087829624
+  },
+  {
+    "price": 105.02697445010004,
+    "exchange": "Bitbuy",
+    "pair": "LTC/CAD",
+    "pairPrice": 139.04,
+    "volume": 273.18768396114365
+  },
+  {
+    "price": 110.8,
+    "exchange": "SouthXchange",
+    "pair": "LTC/USDT",
+    "pairPrice": 110.8,
+    "volume": 266.47279782
+  },
+  {
+    "price": 110.8,
+    "exchange": "Cashierest",
+    "pair": "LTC/USDT",
+    "pairPrice": 110.8,
+    "volume": 266.47279782
+  },
+  {
+    "price": 107.56,
+    "exchange": "NovaDAX",
+    "pair": "LTC/USDT",
+    "pairPrice": 107.56,
+    "volume": 254.2298916
+  },
+  {
+    "price": 299.08600911,
+    "exchange": "Hotbit",
+    "pair": "LTC/BTC",
+    "pairPrice": 99999,
+    "volume": 195.781701563406
+  },
+  {
+    "price": 109.35799866624915,
+    "exchange": "SouthXchange",
+    "pair": "LTC/BCH",
+    "pairPrice": 295.8389198647869,
+    "volume": 181.43717335105788
+  },
+  {
+    "price": 109.35799866624915,
+    "exchange": "Cashierest",
+    "pair": "LTC/BCH",
+    "pairPrice": 295.8389198647869,
+    "volume": 181.43717335105788
+  },
+  {
+    "price": 108.48254999999999,
+    "exchange": "Lykke",
+    "pair": "LTC/BTC",
+    "pairPrice": 30580,
+    "volume": 153.37246429652402
+  },
+  {
+    "price": 112.988304,
+    "exchange": "Bittrex",
+    "pair": "LTC/ETH",
+    "pairPrice": 1915.056,
+    "volume": 146.6932896
+  },
+  {
+    "price": 114.9208164102263,
+    "exchange": "BTCTradeUA",
+    "pair": "LTC/UAH",
+    "pairPrice": 4217,
+    "volume": 137.37051299976832
+  },
+  {
+    "price": 91.54843273791994,
+    "exchange": "Coingi",
+    "pair": "LTC/BTC",
+    "pairPrice": 30516.14424597331,
+    "volume": 119.01296255929591
+  },
+  {
+    "price": 105.98993,
+    "exchange": "Lykke",
+    "pair": "LTC/USDC",
+    "pairPrice": 0.999905,
+    "volume": 69.55635473849411
+  },
+  {
+    "price": 110.22958154161958,
+    "exchange": "Gemini",
+    "pair": "LTC/BCH",
+    "pairPrice": 295.8389198647869,
+    "volume": 69.31677005663205
+  },
+  {
+    "price": 111.015,
+    "exchange": "Currency.com",
+    "pair": "LTC/USDT",
+    "pairPrice": 111.015,
+    "volume": 69.27336
+  },
+  {
+    "price": 111,
+    "exchange": "SIGEN.pro",
+    "pair": "LTC/USDT",
+    "pairPrice": 111,
+    "volume": 64.1099992
+  },
+  {
+    "price": 110.876269136365,
+    "exchange": "PancakeSwapV2",
+    "pair": "LTC/USDT",
+    "pairPrice": 110.876269136365,
+    "volume": 57.6410685366524
+  },
+  {
+    "price": 109.87845286151642,
+    "exchange": "Lykke",
+    "pair": "LTC/EUR",
+    "pairPrice": 100.65420001,
+    "volume": 47.50878835389857
+  },
+  {
+    "price": 109.23774354515423,
+    "exchange": "CEX.IO",
+    "pair": "LTC/GBP",
+    "pairPrice": 85.97,
+    "volume": 45.74338485308612
+  },
+  {
+    "price": 36.58944,
+    "exchange": "SIGEN.pro",
+    "pair": "LTC/BTC",
+    "pairPrice": 10030,
+    "volume": 43.3032211
+  },
+  {
+    "price": 81.7071381,
+    "exchange": "ZBCom",
+    "pair": "LTC/BTC",
+    "pairPrice": 28820.86,
+    "volume": 31.7023695828
+  },
+  {
+    "price": 106.96250001,
+    "exchange": "Lykke",
+    "pair": "LTC/USD",
+    "pairPrice": 106.96250001,
+    "volume": 26.356285208214068
+  },
+  {
+    "price": 111.24063828624051,
+    "exchange": "SouthXchange",
+    "pair": "LTC/DAI",
+    "pairPrice": 0.999629,
+    "volume": 20.884434234528992
+  },
+  {
+    "price": 111.24063828624051,
+    "exchange": "Cashierest",
+    "pair": "LTC/DAI",
+    "pairPrice": 0.999629,
+    "volume": 20.884434234528992
+  },
+  {
+    "price": 45.0132860106,
+    "exchange": "Hotbit",
+    "pair": "LTC/ETH",
+    "pairPrice": 1800.53,
+    "volume": 18.081836990458022
+  },
+  {
+    "price": 117.186,
+    "exchange": "BithumbGlobal",
+    "pair": "LTC/USDT",
+    "pairPrice": 117.186,
+    "volume": 17.86969314
+  },
+  {
+    "price": 92.63658966,
+    "exchange": "STEX",
+    "pair": "LTC/USDT",
+    "pairPrice": 92.63658966,
+    "volume": 13.789419553839299
+  },
+  {
+    "price": 91.86999999999999,
+    "exchange": "WazirX",
+    "pair": "LTC/WRX",
+    "pairPrice": 0.09187,
+    "volume": 8.727649999999999
+  },
+  {
+    "price": 111.49450715304427,
+    "exchange": "SouthXchange",
+    "pair": "LTC/TUSD",
+    "pairPrice": 0.9983231401410907,
+    "volume": 8.239148618166016
+  },
+  {
+    "price": 111.49450715304427,
+    "exchange": "Cashierest",
+    "pair": "LTC/TUSD",
+    "pairPrice": 0.9983231401410907,
+    "volume": 8.239148618166016
+  },
+  {
+    "price": 121.172373,
+    "exchange": "Graviex",
+    "pair": "LTC/EUR",
+    "pairPrice": 111,
+    "volume": 8.176114350241109
+  },
+  {
+    "price": 80.77865378,
+    "exchange": "Beaxy",
+    "pair": "LTC/BTC",
+    "pairPrice": 23020.42,
+    "volume": 7.915338726594641
+  },
+  {
+    "price": 111,
+    "exchange": "Graviex",
+    "pair": "LTC/USD",
+    "pairPrice": 111,
+    "volume": 7.49999916
+  }
+]
