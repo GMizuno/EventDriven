@@ -14,6 +14,9 @@ def sink_postgres(data: dict):
         echo=False
     )
 
+    data.pop('pairPrice')
+    data.pop('pair')
+
     model = CoinDB(**data).asdict()
     data = pd.DataFrame(model, index=[0])
     data['insert_date'] = datetime.now()

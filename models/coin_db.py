@@ -6,8 +6,7 @@ import faust
 class CoinDB(faust.Record, serializer='json'):
     price: float
     exchange: str
-    pair: str
-    pairPrice: float
+    coinId: str
     volume: int
     event_time: str
 

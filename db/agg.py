@@ -27,16 +27,3 @@ def agg_data():
     data_agg.sort_values(by=['event_time', 'exchange', 'pair'], inplace=True)
 
     data_agg.to_sql('coin_agg', con=engine, if_exists='replace', index=False)
-
-df_time = pd.DataFrame({'B': [0, 1, 2, 5, np.nan, 4],
-                        'time': [pd.Timestamp('20130101 09:00:01'),
-                                 pd.Timestamp('20130101 09:00:02'),
-                                 pd.Timestamp('20130101 09:00:03'),
-                                 pd.Timestamp('20130101 09:00:04'),
-                                 pd.Timestamp('20130101 09:00:07'),
-                                 pd.Timestamp('20130101 09:00:09')]},
-                       )
-df_time.rolling('2s', center=True, on='time', closed='left').sum()
-
-df_time.resample('5S', on='time').B.sum()
-dir(data.resample('5S', on='event_time'))

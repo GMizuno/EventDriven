@@ -31,7 +31,7 @@ async def process_messages(messages):
     async for message in messages:
         print('Sending message to postgres')
         sink_postgres(message.asdict())
-        agg_data()
+        # agg_data()
 
 
 if __name__ == '__main__':
