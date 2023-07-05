@@ -15,6 +15,7 @@ sqlalchemy = "^2.0.17"
 pydantic = "^1.10.9"
 pandas = "^2.0.2"
 psycopg2 = "^2.9.6"
+pendulum = "^2.1.2"
 
 
 [build-system]

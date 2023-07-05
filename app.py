@@ -1,9 +1,10 @@
 from datetime import datetime
 
 import faust
+import pendulum
 
 from const import COINSLIST
-from db.agg import agg_data
+from db.agg import agg_data, get_data_from_report1, get_data_from_report2, export_to_csv
 from db.sink import sink_postgres
 from models import Coin
 from requester.coin import get_qoute
@@ -31,7 +32,12 @@ async def process_messages(messages):
     async for message in messages:
         print('Sending message to postgres')
         sink_postgres(message.asdict())
-        # agg_data()
+        agg_data()
+        report1 = get_data_from_report1()
+        report2 = get_data_from_report2()
+        data = pendulum.now().strftime('%Y-%M-%d-%I:%M:%S')
+        export_to_csv(report1, 'report1'+data)
+        export_to_csv(report2, 'report2'+data)
 
 
 if __name__ == '__main__':
